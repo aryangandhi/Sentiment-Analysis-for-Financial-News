@@ -1,4 +1,4 @@
-# CSC413_final_project
+# CSC413 Final Project
 
 
 ## Introduction
