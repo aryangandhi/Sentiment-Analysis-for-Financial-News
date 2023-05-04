@@ -1,4 +1,4 @@
-# CSC413 Final Project
+# Sentiment Analysis for Financial News
 
 
 ## Introduction
